@@ -183,6 +183,8 @@ By leveraging the comprehensive insights provided by the diverse array of charts
 ### Illustration of Average Income Trends in Relation to Purchases:
 
 Insight: On average, individuals who purchased bikes exhibit a higher income, approximately $3,000 to $4,000 more than non-buyers.
+
+
 Implication: The positive correlation between higher income and bike purchases suggests that bikes may be perceived as a discretionary purchase among more affluent demographics.
 
 <br/><br/>
@@ -190,6 +192,8 @@ Implication: The positive correlation between higher income and bike purchases s
 ### Insightful Depiction of Age Categories in Correlation with Purchases:
 
 Insight: Middle age adults demonstrate the highest propensity for bike purchases, followed by young adults, while old adults exhibit minimal purchasing behavior.
+
+
 Implication: Tailored marketing efforts and product features catering to the preferences and lifestyles of middle age and young adults could potentially drive sales and engagement in these demographic segments.
 
 <br/><br/>
@@ -197,6 +201,8 @@ Implication: Tailored marketing efforts and product features catering to the pre
 ### Visual Representation of Home Ownership Status and Its Impact on Purchasing Behavior:
 
 Insight: The proportion of bike purchasers among home owners and non-home owners appears comparable, indicating a balanced distribution in purchasing behavior.
+
+
 Implication: Further investigation may be required to ascertain the nuanced relationship between home ownership status and bike purchases, potentially uncovering hidden factors influencing purchasing decisions.
 
 <br/><br/>
@@ -204,6 +210,8 @@ Implication: Further investigation may be required to ascertain the nuanced rela
 ### Occupation Analysis Highlighting Purchase Patterns:
 
 Insight: Professionals exhibit the highest ratio of bike ownership, followed by clerical workers and manual laborers.
+
+
 Implication: Understanding occupation-based purchasing patterns can inform targeted marketing strategies tailored to specific professional segments, maximizing engagement and conversion rates.
 
 <br/><br/>
@@ -211,6 +219,8 @@ Implication: Understanding occupation-based purchasing patterns can inform targe
 ### Exploration of Purchase Behavior Across Different Car Ownership Levels:
 
 Insight: Individuals owning two cars demonstrate the highest propensity for bike purchases, followed by single car owners, while those with three or four cars exhibit minimal purchasing behavior.
+
+
 Implication: Targeted marketing campaigns emphasizing the convenience and environmental benefits of biking as an alternative transportation mode could resonate particularly well with individuals owning multiple cars.
 
 <br/><br/>
@@ -218,6 +228,8 @@ Implication: Targeted marketing campaigns emphasizing the convenience and enviro
 ### Mapping Commute Distances Against Purchase Decisions for Deeper Understanding:
 
 Insight: The majority of bike owners have a commute distance of 0-1 mile, with a significant drop-off in purchasing behavior observed beyond this range.
+
+
 Implication: Tailoring promotional efforts and product offerings to address the needs and preferences of short-distance commuters could effectively capture a substantial portion of the bike market.
 
 
